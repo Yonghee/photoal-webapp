@@ -1,4 +1,4 @@
-package hello;
+package com.photoal.webapp.web;
 
 import java.io.IOException;
 import java.util.stream.Collectors;
@@ -19,8 +19,8 @@ import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import hello.storage.StorageFileNotFoundException;
-import hello.storage.StorageService;
+import com.photoal.webapp.service.storage.StorageFileNotFoundException;
+import com.photoal.webapp.service.storage.StorageService;
 
 @Controller
 public class FileUploadController {
