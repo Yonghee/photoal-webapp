@@ -73,17 +73,3 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-.idea/inspectionProfiles/
-src/main/java/com/photoal/webapp/domain/
-src/main/java/com/photoal/webapp/exception/
-src/main/java/com/photoal/webapp/service/
-src/test/java/com/
-target/classes/META-INF/
-target/classes/application.properties
-target/classes/templates/
-target/files/
-target/generated-sources/
-target/generated-test-sources/
-target/maven-status/
-target/surefire-reports/
-target/test-classes/hello/testupload.txt
